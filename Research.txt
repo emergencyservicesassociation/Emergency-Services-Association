@@ -1,0 +1,10 @@
+Research
+
+July 7, 2025
+
+How to Improve Emergency Health Systems?
+
+Systems research is this area is good for the Patient Care Record (PCR) system in order to improve the decisions of volunteer first responders in the field. Field systems, like the PCR, are good because volunteer first responders often document patient information using paper-based PCRs. PCRs of this kind are critical for care continuity, yet they are difficult to complete in real-world conditions such as poor lighting, bad weather, or during high-stress calls with limited personnel. Personnel that will take on this project will explore how a PCR system - whether paper-based, digital, or hybrid - can be improved for greater usability, speed, and accuracy in such environments. Environments like these demand the contributors to prototype a tool that aligns with field workflows, responder skill levels, and situational constraints, informed by real use cases and validated through mock scenario and real testing.
+
+Testing of another system, specifically the medical bag, will be good because volunteer first responders often carry medical bags into unpredictable environments - from residential buildings to outdoor disaster sites. Sites like these demand that the medical bags be portable, field-friendly, and allow fast access to critical equipment during treatment. Treatment of a patient with the current designs can be cumbersome, disorganized, and contribute to responder fatigue and strain. Strain and fatigue are two problems that this research will decrease by making the medical bags more good for the responders in order to improve usability, ergonomics, navigability, and responder safety while maintaining simplicity and adaptability. Adaptability of the contributors will be tested as they explore layout optimizations, modular organization, and potentially lightweight or weather-resistant materials in order to have realistic workflows and good outcomes for metrics like speed and comfort.
+
