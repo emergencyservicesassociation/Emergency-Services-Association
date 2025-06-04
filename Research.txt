@@ -1,0 +1,18 @@
+Research
+
+July 7, 2025
+
+What is EHS Research?
+
+Research about EHS or Emergency Health Systems is good because recent exposure to volunteer first responder organizations, such as St. John Ambulance (SJA) and the Canadian Red Cross (CRC), has highlighted meaningful variation in how training, equipment, and documentation systems support care delivery in prehospital settings. Settings like these raise a good question: how can systems like the Patient Care Record (PCR) and the medical bag be improved for volunteer first responders in order to make good decisions in the field? Field considerations can start with the PCR project.
+
+PCR Project
+
+Patient care record (PCR) project is good because first responders in volunteer emergency organizations often document patient information using paper-based PCRs. Paper-based PCRs are critical for care continuity, yet they are difficult to complete in real-world conditions such as poor lighting, bad weather, or during high-stress calls with limited personnel. Personnel that will take on this project will explore how a PCR system - whether paper-based, digital, or hybrid - can be improved for greater usability, speed, and accuracy in such environments. In such environments, the goal is to prototype a tool that aligns with field workflows, responder skill levels, and situational constraints, informed by real use cases and validated through mock scenarios and real life testing. Testing of this system can be associated with the medical bag project.
+
+Medical Bag Project
+
+Medical bag project is good because first responders in volunteer organizations carry medical bags into unpredictable environments - from residential buildings to outdoor disaster sites. Sites like these demand that the medical bags be portable, field-friendly, and allow fast access to critical equipment during treatment. During treatment, the current designs can be cumbersome, poorly organized, and contribute to responder fatigue or strain. Responder fatigue or strain are two problems that this project seeks to decrease by improving the medical bags in volunteer first responder organizations in order to improve usability, ergonomics, navigability, and responder safety while maintaining simplicity and adaptability. Adaptability of the contributors will be tested as they explore layout optimizations, modular organization, and potentially lightweight or weather-resistant materials. Materials of the prototype should reflect realistic workflows and environmental challenges with metrics like speed and comfort for these systems.
+
+These systems have a lot of gains to offer, including insights into how documentation and equipment impact responder performance and patient care, identification of barriers that decrease usability, including consistency and safety in emergencies. Emergencies require the solutions to be scalable, user-focused, and aligned with emergency services. Services and their priorities in alignment with academic collaborations are the next step in order to observe and pilot small-scale initiatives and improve EHS research.
+
