@@ -1,0 +1,10 @@
+Research
+
+July 7, 2025
+
+Patient Care Record Project
+
+Patient care record (PCR) project is good because first responders in volunteer and community-based emergency programs often document patient information using paper-based PCRs. Paper-based PCRs are critical for care continuity, yet they are difficult to complete in real-world conditions such as poor lighting, bad weather, or during high-stress calls with limited personnel.
+
+Personnel that will take on this project will explore how a PCR system - whether paper-based, digital, or hybrid - can be improved for greater usability, speed, and accuracy in such environments. In such environments, the goal is to prototype a tool that aligns with field workflows, responder skill levels, and situational constraints, informed by real use cases and validated through mock scenario testing.
+
