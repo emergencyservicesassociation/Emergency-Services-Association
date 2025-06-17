@@ -11,7 +11,8 @@ The Emergency Services Association is dedicated to creating an inclusive communi
 ## Development
 - **Step 1:** Created the website using Wix. It includes pages for **Home**, **Education**, and **Contact**.
 - **Step 2:** Integrated Instagram and other contact information on the website.
-- **Step 3:** Started adding weekly educational posts regarding Emergency Medical Services.
+- **Step 3:** Started adding weekly educational posts regarding Emergency Medical Services (EMS).
+- **Step 4:** Started adding monthly research projects or research updates regarding EMS.
 
 ### Contribute
 - Clone the repository.
