@@ -16,3 +16,33 @@ Medical bag project is good because first responders in volunteer organizations 
 
 These systems have a lot of gains to offer, including insights into how documentation and equipment impact responder performance and patient care, identification of barriers that decrease usability, including consistency and safety in emergencies. Emergencies require the solutions to be scalable, user-focused, and aligned with emergency services. Services and their priorities in alignment with academic collaborations are the next step in order to observe and pilot small-scale initiatives and improve EHS research.
 
+
+August 4, 2025
+
+What are the EHS Research requirements?
+
+The EHS research requirements are important in order to know the scope of the research and to determine the baseline expectations of the people who will work on the research associated with the PCR project and the medical bag project, and therefore let us detail the following requirements of the PCR project:
+
+PCR Project
+
+- PCR project design comparison across SJA and CRC responders.
+- Responder alignment with the PCR form based on their skill level.
+- Level up the design for non-ideal field conditions, such as mass casualties and low light.
+- Light integration with digital, voice, and diagnostic tools.
+- Diagnostic tools interoperability for real-time data capture and automated feedback.
+- Feedback generation, such as underlying trends, quality assurance and prevention.
+- Prevention of responder fatigue and sleep levels on PCR accuracy and workflow.
+- Workflow simulation of PCR in varied scenarios to improve retention and field readiness.
+- Readiness of the PCR in association with the medical bag project.
+
+Medical Bag Project
+
+- Medical bag project design comparisons across SJA and CRC responders.
+- Responders’ performance in terms of efficiency, portability, and ergonomic safety.
+- Safety, including navigability, simplicity, and customizability based on responder level.
+- Level up integration of systems, such as vision-and-voice-based item tracking.
+- Tracking hygiene considerations in hazardous or high-contamination environments.
+- Environments consideration and collaboration with logistics teams inventory setup.
+
+The setup of the projects in the EHS research can be guided by the initial requirements that are detailed above in order to start the process of generating prototypes that satisfy the goals of the projects. The projects can be taken on by people and teams in a way that deviates from the aforementioned requirements while ensuring that there is an improvement in the current state of the art.
+
