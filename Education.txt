@@ -163,3 +163,14 @@ Special factors should also be considered when using an AED. For example, a preg
 
 AEDs are an essential part of EMS responders’ toolkit, and future educational posts from the Emergency Services Association will explore the broader organization and operations of EMS. We encourage your participation by reading our posts and sharing your interest through our website.
 
+
+August 31, 2025
+
+What is IMS in EMS?
+
+The Incident Management System, or IMS, is a standardized framework used to organize and coordinate emergency responses. It provides a clear structure for communication, command, and resource management, ensuring that responders from EMS, fire, police, and other agencies can work together efficiently. IMS helps reduce confusion, improve safety, and ensure timely support for those affected by emergencies.
+
+IMS organizes incidents through phases, from detection and response to recovery and evaluation. Small incidents use a basic structure with an Incident Commander, check-ins, an Incident Action Plan, and key facilities like the Incident Command Post and staging areas. Larger incidents expand to include functional sections such as Operations, Planning, Logistics, and Finance and Administration, along with concepts like Unified Command and controlled span of control. Proper IMS use also includes demobilization, deactivation, and after-action reporting to strengthen future responses.
+
+At the Emergency Services Association, we provide educational content, career exploration opportunities, and collaborative discussions to help people understand systems like IMS and their role in effective emergency response. If you are interested in learning more or getting involved, please complete the form on our website. We look forward to your participation in building a stronger, coordinated emergency services community.
+
