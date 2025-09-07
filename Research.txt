@@ -46,3 +46,20 @@ Medical Bag Project
 
 The setup of the projects in the EHS research can be guided by the initial requirements that are detailed above in order to start the process of generating prototypes that satisfy the goals of the projects. The projects can be taken on by people and teams in a way that deviates from the aforementioned requirements while ensuring that there is an improvement in the current state of the art.
 
+
+September 7, 2025
+
+What is EMT Research?
+
+Emergency Music Therapy (EMT) research explores how music can help people achieve a balanced emotional and cognitive state during stressful or overwhelming situations. In volunteer response environments and wellness spaces, individuals may feel anxious, fatigued, or disconnected. Music offers a flexible way to support wellbeing by helping people calm down, refocus, or restore energy depending on their needs. Research shows that music can have powerful effects on the brain and body: familiar songs have helped some regain awareness, stroke survivors have recovered speech through rhythmic exercises, and responders have used music to restore alertness during fatigue. These examples raise an important question: How can music-based activities be used in emergency and wellness settings to help individuals regulate their emotions, restore energy, and return to a more balanced mental and physical state?
+
+Music Sessions Project
+
+The Music Sessions Project designs and tests volunteer-led music activities in emergency and wellness settings, such as rest centers, preparedness events, and volunteer wellness breaks. Sessions may include calming melodies for stress relief, rhythmic beats for energy, or familiar tunes for grounding. The goal is to create simple, scalable session formats that volunteers can deliver across diverse contexts.
+
+Music Partner Project
+
+The Music Partner Project focuses on collaborating with community musicians, educators, and wellness practitioners to strengthen EMT initiatives. These partnerships provide training for volunteers, share best practices, and integrate evidence-informed techniques. By leveraging community expertise, EMT sessions can become more inclusive, adaptive, and effective in supporting diverse needs.
+
+The next step is to define the requirements for testing and implementation, which will guide pilot activities, training, and evaluation. By establishing a structured approach, EMT research can deliver meaningful gains, including better emotional regulation, improved focus, increased volunteer engagement, and stronger community connections. These benefits will inform future prototypes and help integrate music-based strategies into broader wellness and emergency response programs.
+
