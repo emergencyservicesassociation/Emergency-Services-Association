@@ -185,3 +185,14 @@ One of the unique strengths of EMT is that it does not require complex tools or 
 
 At the Emergency Services Association, we believe in creating opportunities for volunteers to make a difference by contributing their unique skills, including those related to music and wellness. Music helps people connect, and connection is one of the most important ways to build trust, restore hope, and support recovery in challenging times. If you are interested in learning more, participating in our initiatives, or sharing your own ideas, you can get started by joining us through the form on our website. Together, we can explore innovative approaches to care, learning, and research in the field of emergency services, and make music an integral part of supporting people when they need it most.
 
+
+September 14, 2025
+
+What is ICS in EMS?
+
+The Incident Command System, or ICS, is a key part of the Incident Management System (IMS) used in emergency response. ICS provides a standardized approach to the command, control, and coordination of emergency incidents, ensuring that responders from EMS, fire, police, and other agencies work together efficiently. By defining clear roles, responsibilities, and reporting lines, ICS helps reduce confusion, maintain safety, and make the best use of available resources.
+
+ICS organizes an incident through a hierarchical structure led by an Incident Commander, with functional sections such as Operations, Planning, Logistics, and Finance/Administration that can expand or contract depending on the size and complexity of the emergency. Concepts like Unified Command, span of control, and the use of an Incident Action Plan ensure that all responding agencies can coordinate effectively, even during large or multi-jurisdictional events. Proper ICS use also includes planning for demobilization and conducting after-action reviews, which strengthen future responses.
+
+At the Emergency Services Association, we provide educational content, career exploration opportunities, and collaborative discussions to help people understand systems like ICS and their role in coordinated emergency response. To learn more or get involved, please complete the form on our website, we look forward to building a stronger, safer emergency services community together.
+
